@@ -1,0 +1,11 @@
+.progress-bar {
+    -webkit-animation-play-state: running;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    border: 5px solid black;
+    height: 40px;
+}
+.progress-bar::-webkit-progress-bar
+.progress-bar::-moz-progress-bar {
+    background-color: rgb(255, 106, 0);
+}
