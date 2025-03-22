@@ -7,9 +7,5 @@
 .title.-second {
     color: white;
     text-shadow: none;
-    text-align: center;
-    background-color: #16649c;
-    width: 100%;
-    height: 600px;
-    padding-top: 20px;
+    text-align: center;   
 }
